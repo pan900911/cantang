@@ -6,4 +6,7 @@ public class UserController {
     }
 
 
+    public String addUser(){
+        return "true";
+    }
 }
