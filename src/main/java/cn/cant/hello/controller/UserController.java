@@ -8,6 +8,7 @@ public class UserController {
     public String addUser(){
         String name="12343";
         String a="1";
+        String b="2";
         return "true";
     }
 }
