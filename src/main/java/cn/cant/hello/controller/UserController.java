@@ -6,7 +6,7 @@ public class UserController {
     }
 
     public String addUser(){
-        String name="123";
+        String name="12343";
         return "true";
     }
 }
